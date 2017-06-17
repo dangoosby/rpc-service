@@ -1,0 +1,4 @@
+# generic ignores
+.DS_STORE
+*.swp
+
